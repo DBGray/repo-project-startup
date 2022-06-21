@@ -1,4 +1,4 @@
-Babel==1.3
+babel>=2.9.1
 Cartopy==0.9.x
 Genshi==0.6
 Jinja2~> 2.10.1
